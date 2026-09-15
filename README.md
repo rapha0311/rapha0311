@@ -60,3 +60,83 @@ Também possuo experiência em desenvolvimento de aplicações utilizando tecnol
 - Git e GitHub
 
 Esses conhecimentos de desenvolvimento complementam minha formação prática em automação e IoT, permitindo trabalhar na integração entre **software, dispositivos e processos industriais**.
+
+---
+
+## 📂 Projetos
+
+### 🏭 Automação Industrial
+
+**Estação de Bombeamento Industrial — CODESYS + HMI**
+
+Sistema de controle, supervisão e simulação desenvolvido com CODESYS, utilizando Ladder Logic, Structured Text e WebVisu.
+
+🔗 [Ver projeto](https://github.com/rapha0311/estacao-bombeamento-industrial)
+
+---
+
+### 🌐 IoT
+
+**Sistema de Monitoramento Industrial — ESP32**
+
+Projeto de IoT voltado para monitoramento de variáveis industriais utilizando ESP32, sensores, MQTT e comunicação com plataforma em nuvem.
+
+🔗 Em desenvolvimento
+
+---
+
+### 💻 Desenvolvimento Web
+
+**Personal Finance App**
+
+Aplicação web para gerenciamento de finanças pessoais, desenvolvida com React, JavaScript, Tailwind CSS e FastAPI.
+
+🔗 Em desenvolvimento
+
+---
+
+## ⚙️ Tecnologias e ferramentas
+
+### Automação Industrial
+- CODESYS
+- Ladder Logic (LD)
+- Structured Text (ST)
+- HMI / WebVisu
+- PLC
+- Intertravamentos e permissivos
+- Simulação de processos
+
+### IoT
+- ESP32
+- Sensores
+- Atuadores
+- MQTT
+- Comunicação com dispositivos IoT
+
+### Desenvolvimento
+- JavaScript
+- HTML5
+- CSS3
+- React
+- Python
+- FastAPI
+- SQLite
+- Git
+- GitHub
+
+---
+
+## 📫 Contato
+
+Estou aberto a oportunidades e conexões nas áreas de:
+
+- Automação Industrial
+- PLC / CODESYS
+- IoT
+- Desenvolvimento de sistemas
+
+📧 Email: **rapha.alves.ferreira@gmail.com**
+
+💼 LinkedIn: **[Meu LinkedIn](https://www.linkedin.com/in/raphael-alves-ferreira-09ba52177/)**
+
+🐙 GitHub: **[github.com/rapha0311](https://github.com/rapha0311)**
