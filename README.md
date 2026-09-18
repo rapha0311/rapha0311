@@ -50,7 +50,7 @@ O projeto implementa:
 
 ## 💻 Desenvolvimento
 
-Também possuo experiência em desenvolvimento de aplicações utilizando tecnologias como:
+Também desenvolvo aplicações utilizando tecnologias como JavaScript, React, Python e FastAPI, buscando integrar desenvolvimento de software com aplicações de automação e IoT.
 
 - JavaScript
 - HTML
