@@ -82,7 +82,7 @@ Sistema de controle, supervisão e simulação desenvolvido com CODESYS, utiliza
 Projeto de IoT voltado para monitoramento de variáveis industriais utilizando ESP32, sensores, MQTT e comunicação com plataforma em nuvem.
 
 🔗 [Monitoramento de motor](https://github.com/rapha0311/IoT-protection-motor)
-🔗 [Monitoramento de motor](https://github.com/rapha0311/IoT-protection-motor)
+🔗 [Monitoramento consumo energético](https://github.com/rapha0311/ESP32-Energy-Monitor-IoT)
 
 ---
 
